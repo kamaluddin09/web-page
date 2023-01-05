@@ -1,0 +1,360 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    /* font-family: 'Kanit', sans-serif; */
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  header h1 {
+    font-size: 2em;
+  }
+  
+  header nav ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 600px;
+    
+  }
+  
+  header nav li {
+    display: inline-block
+  }
+  
+  header nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+  }
+  
+  
+.one {
+    background-image: url(../IMAGES/background\ image.jpg);
+    background-size: cover;
+    text-align: center;
+    color: white;
+    /* padding: 100px;   */
+    font-size: 20px;
+    margin-bottom: 20px;
+    word-spacing: 4px;
+}
+
+.one h5 {
+    font-size: 10px;
+    font-style: italic;
+}
+
+.sec1content {
+    padding: 10%;
+}
+
+.sec1content {
+    padding: 10%;
+}
+
+.rgba {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.logo {
+    display: block;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 10px;
+    /* margin-bottom: 20px; */
+}
+
+.recipe {
+    text-transform: uppercase;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button {
+    background-color: transparent;
+    border: 2px solid white;
+    padding: 10px 30px 10px 30px;
+    color: white;
+    font-size: 20px;
+    margin: 10px 0px 10px 0px;
+}
+
+.icons {
+    line-height: 25px;
+    margin: 30px;
+    padding: 0px 30px 0px 30px;
+    text-align: center;
+
+}
+
+.firsticon {
+    text-align: center;
+    width: 30%;
+    display: inline-block;
+    padding: 0px 30px 0px 30px;
+}
+
+.secondicon {
+    text-align: center;
+    width: 30%;
+    display: inline-block;
+    padding: 0px 30px 0px 30px;
+}
+
+.thirdicon {
+    text-align: center;
+    width: 30%;
+    display: inline-block;
+    padding: 0px 30px 0px 30px;
+}
+
+.hr1 {
+    margin-left: 37%;
+    width: 80px;
+
+}
+
+i {
+    font-size: 40px;
+    color: brown;
+    border: 2px solid black;
+    border-radius: 50%;
+    padding: 15px;
+    margin: 5px;
+
+}
+
+.three {
+    background-color: rgb(207, 199, 182);
+    background-size: cove;
+    margin-top: 70px;
+    height: 600px;
+}
+
+.iphone {
+
+    width: 40%;
+    height: 50px;
+    margin-left: 200px;
+    margin-top: 40px;
+    padding: 0px;
+}
+
+.sec3 {
+    height: 400px;
+    width: 60%;
+
+    margin-left: 50px;
+    margin-right: 100px;
+    margin-top: 80px;
+}
+
+.sec3hr {
+    width: 80px;
+    color: red;
+}
+.section4 {
+    background-image: url(../IMAGES/national-fast-food-day.webp);
+    background-color: rgb;
+    height: 400px;
+    text-align: center;
+    background-size: cover;
+}
+.section4 p {
+    font-size: 20px;
+    line-height: 20px;
+}
+.section4 blockquote img{
+    display: inline-block;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    margin-bottom: 20px;
+}
+.section4 blockquote {
+    /* background-color: #f9f9f9; */
+    /* border-left: 10px solid #ccc; */
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+}
+.section4 blockquote footer{
+    padding-top: 20px;
+}
+.suggestion {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 100px;
+    line-height: 15px;
+
+}
+.singlheading {
+
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 34px;
+    line-height: 1pt;
+    padding-top: 90px;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.hr2 {
+    margin-left: 45%;
+    width: 185px;
+    margin-top: 20px;
+}
+.heading4 {
+    color: white;
+    padding-top: 60px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading3 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    
+}
+.rgba2 {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.p1 {
+    background-image: url(../IMAGES/food/italian\ food.jpg);
+    background-size: cover;
+    width: 20%;
+    height: 200px;
+    text-align: center;
+    margin: 0.5px;
+    padding: 1.5px;
+}
+.p2 {
+    background-image: url(../IMAGES/food/indian\ food.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 20%;
+    /* height:200px ; */
+    text-align: center;
+    margin: 0.5px;
+    padding: 1.5px;
+}
+.p3 {
+    background-image: url(../IMAGES/food/french\ food.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 20%;
+    height: 200px;
+    text-align: center;
+    margin: 0.5px;
+    padding: 1.5px;
+}
+.p4 {
+    background-image: url(../IMAGES/food/STEAKHOUSE.jpg);
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5);
+
+    width: 20%;
+    height: 200px;
+    text-align: center;
+    margin: 0.5px;
+    padding: 1.5px;
+}
+.p5 {
+    background-image: url(../IMAGES/food/sea\ food.jpg);
+    background-color: rgba(0, 0, 0, 0.5);
+    background-size: cover;
+
+    width: 20%;
+    height: 200px;
+    text-align: center;
+    margin: 0.5px;
+    padding: 1.5px;
+}
+
+.p6 {
+    background-image: url(../IMAGES/food/sushi.jpg);
+    background-color: rgba(0, 0, 0, 0.5);
+    background-size: cover;
+
+    width: 20%;
+    height: 200px;
+    text-align: center;
+    margin: 0.5px;
+    padding: 1.5px;
+}
+
+.p7 {
+    background-image: url(../IMAGES/food/mexican.jpg);
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5);
+
+    width: 20%;
+    height: 200px;
+    text-align: center;
+    margin: 0.5px;
+    padding: 1.5px;
+}
+
+.p8 {
+    background-image: url(../IMAGES/food/chinese\ food.jpg);
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 20%;
+    height: 200px;
+    text-align: center;
+    margin: 0.5px;
+    padding: 1.5px;
+}
+
+.p9 {
+    background-image: url(../IMAGES/food/pizza.jpg);
+    background-color: rgba(0, 0, 0, 0.5);
+    background-size: cover;
+    width: 20%;
+    height: 200px;
+    text-align: center;
+    margin: 0.5px;
+    padding: 1.5px;
+}
+
+.p10 {
+    background-image: url(../IMAGES/food/american.jpg);
+    background-color: rgba(0, 0, 0, 0.5);
+    background-size: cover;
+    width: 20%;
+    height: 200px;
+    text-align: center;
+    margin: 0.5px;
+    padding: 1.5px;
+}
+
+.numbering {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.reviews {
+    font-size: 10px;
+}
+
+.lastpart {
+    text-align: center;
+    width: 20%;
+    line-height:  0.5px;
+    height: 50px;
+    padding-top: 20px;
+}
+footer div p{
+    text-align: center;
+    font-size: 15px;
+    padding-right: 300px;
+    padding-left: 100px;
+}
